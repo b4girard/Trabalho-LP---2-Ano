@@ -86,4 +86,4 @@ CREATE TABLE lista_midia (
   CONSTRAINT chk_avaliacao CHECK (Avaliacao BETWEEN 0 AND 5 OR Avaliacao IS NULL)
 );
 
-  
+insert into livro (ISBN, Titulo, Autor, Idioma, Editora, N_Paginas, Capa) value ("9788584391509", "Os sete maridos de Evelyn Hugo", "Taylor Jenkins Reid", "Português", "Paralela", 360, "../Imagens Livros/Os Sete Maridos de Evelyn Hugo.jpg");

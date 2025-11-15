@@ -15,5 +15,7 @@
         <input required type = "password" name = "senha"><br><br>
 
         <input type="submit" value="Realizar Login">
+
+        <br><br><a href="Cadastro.php">Não é cadastrado?</a>
 </body>
 </html>

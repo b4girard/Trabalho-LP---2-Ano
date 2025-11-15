@@ -20,6 +20,8 @@
         <label for="senha">Senha</label>
         <input required type = "password" name = "senha"><br><br>
 
+        <br><br><a href="Login.php"> Já é castrado?</a>
+
 
         <input type="submit" value="Cadastrar-se">
 </body>
