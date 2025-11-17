@@ -8,5 +8,5 @@ if (!isset($_SESSION['ID_usuario'])) {
 }
 
 $idUsuario = $_SESSION['ID_usuario'];
-$nomeUsuario = $_SESSION['Nome'];
+$nomeUsuario = $_SESSION['nome'];
 ?>

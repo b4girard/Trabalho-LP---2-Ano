@@ -11,17 +11,26 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
 
-    $sql = $conn->prepare("SELECT ID_usuario, Nome, Senha FROM usuario WHERE E_mail = ?");
+    $sql = $conn->prepare("SELECT ID_usuario, Nome, Senha, Tipo_usuario FROM usuario WHERE E_mail = ?");
     $sql->bind_param("s", $email);
     $sql->execute();
 
-    $sql->bind_result($id, $nome, $hashSenha);
+    $sql->bind_result($id, $nome, $hashSenha, $tipoUsuario);
 
     if ($sql->fetch()) { 
         if (password_verify($senha, $hashSenha)) {
-            $_SESSION['usuario_id'] = $id;
+            $_SESSION['ID_usuario'] = $id;
             $_SESSION['nome'] = $nome;
             $_SESSION['e_mail'] = $email;
+            $_SESSION['tipo_usuario'] = $tipoUsuario;
+
+            if ($tipoUsuario === 'administrador') {
+                echo "<script type='text/javascript'>
+                    alert('Login realizado com sucesso!');
+                    window.location.href = 'entrada_ADM.php';
+                  </script>";
+                exit;
+            }
 
  echo "<script type='text/javascript'>
                     alert('Login realizado com sucesso!');

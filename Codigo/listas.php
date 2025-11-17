@@ -1,12 +1,17 @@
-<?php include "conexao.php"; ?>
+<?php
+require_once 'iniciar_sessao.php';
+include "conexao.php";
+?>
 
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Minhas Listas</title>
 </head>
+
 <body>
     <h1>Minhas Listas</h1>
 
@@ -14,7 +19,6 @@
     <hr>
 
     <?php
-    $_SESSION['ID_usuario']
     $sql = "SELECT * FROM lista WHERE ID_usuario = $idUsuario ORDER BY Data_criacao DESC";
     $result = $conn->query($sql);
 
@@ -35,4 +39,5 @@
     $conn->close();
     ?>
 </body>
+
 </html>

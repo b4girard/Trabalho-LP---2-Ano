@@ -17,15 +17,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $senhaSegura = password_hash($senha, PASSWORD_DEFAULT);
 
-   
     $sql = $conn->prepare("INSERT INTO usuario (Usuario, Nome, E_mail, Senha) VALUES (?, ?, ?, ?)");
     $sql->bind_param("ssss", $usuario, $nome, $email, $senhaSegura);
 
     if ($sql->execute()) {
-        echo "Usuário cadastrado com sucesso!";
-        header("Location: login.php"); 
+        header("Location: login.php?sucesso=1");
+        exit;
     } else {
-        echo "Erro ao cadastrar usuário. Tente novamente.";
+        die("Erro ao cadastrar usuário. Tente novamente.");
     }
 
     $sql->close();

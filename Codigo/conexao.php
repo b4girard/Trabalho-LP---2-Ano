@@ -3,7 +3,7 @@
 $servername = "localhost"; 
 $username = "root"; 
 $password = ""; 
-$dbname = "REGISTRADOR_FILMES_LIVROS";
+$dbname = "REGISTRADOR_FILMES_LIVROS_WEB";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

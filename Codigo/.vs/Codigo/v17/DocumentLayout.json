@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\salvar_lista.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:salvar_lista.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\perfil.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:perfil.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\login.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:login.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\logar_se.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logar_se.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\livro_cadastro.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:livro_cadastro.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\listas.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:listas.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\iniciar_sessao.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iniciar_sessao.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\filme_cadastro.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:filme_cadastro.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\excluir_lista.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:excluir_lista.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\entrada_ADM.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entrada_ADM.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\entrada.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entrada.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\editar_se.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:editar_se.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\editar.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:editar.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\criar_lista.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:criar_lista.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\conexao.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:conexao.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\cadastro.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cadastro.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Registrador de Filmes e Livros - PHP\\Codigo\\cadastrar_se.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cadastrar_se.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "salvar_lista.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\salvar_lista.php",
+              "RelativeDocumentMoniker": "salvar_lista.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\salvar_lista.php",
+              "RelativeToolTip": "salvar_lista.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:05:03.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "perfil.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\perfil.php",
+              "RelativeDocumentMoniker": "perfil.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\perfil.php",
+              "RelativeToolTip": "perfil.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:05:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "logout.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\logout.php",
+              "RelativeDocumentMoniker": "logout.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\logout.php",
+              "RelativeToolTip": "logout.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:59.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\login.php",
+              "RelativeDocumentMoniker": "login.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\login.php",
+              "RelativeToolTip": "login.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:58.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "logar_se.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\logar_se.php",
+              "RelativeDocumentMoniker": "logar_se.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\logar_se.php",
+              "RelativeToolTip": "logar_se.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:53.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "livro_cadastro.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\livro_cadastro.php",
+              "RelativeDocumentMoniker": "livro_cadastro.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\livro_cadastro.php",
+              "RelativeToolTip": "livro_cadastro.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "listas.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\listas.php",
+              "RelativeDocumentMoniker": "listas.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\listas.php",
+              "RelativeToolTip": "listas.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:48.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "iniciar_sessao.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\iniciar_sessao.php",
+              "RelativeDocumentMoniker": "iniciar_sessao.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\iniciar_sessao.php",
+              "RelativeToolTip": "iniciar_sessao.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "filme_cadastro.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\filme_cadastro.php",
+              "RelativeDocumentMoniker": "filme_cadastro.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\filme_cadastro.php",
+              "RelativeToolTip": "filme_cadastro.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:46.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "excluir_lista.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\excluir_lista.php",
+              "RelativeDocumentMoniker": "excluir_lista.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\excluir_lista.php",
+              "RelativeToolTip": "excluir_lista.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:43.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "entrada_ADM.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\entrada_ADM.php",
+              "RelativeDocumentMoniker": "entrada_ADM.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\entrada_ADM.php",
+              "RelativeToolTip": "entrada_ADM.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "entrada.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\entrada.php",
+              "RelativeDocumentMoniker": "entrada.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\entrada.php",
+              "RelativeToolTip": "entrada.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:39.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "editar_se.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\editar_se.php",
+              "RelativeDocumentMoniker": "editar_se.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\editar_se.php",
+              "RelativeToolTip": "editar_se.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:38.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "editar.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\editar.php",
+              "RelativeDocumentMoniker": "editar.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\editar.php",
+              "RelativeToolTip": "editar.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:37.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "criar_lista.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\criar_lista.php",
+              "RelativeDocumentMoniker": "criar_lista.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\criar_lista.php",
+              "RelativeToolTip": "criar_lista.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cadastro.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\cadastro.php",
+              "RelativeDocumentMoniker": "cadastro.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\cadastro.php",
+              "RelativeToolTip": "cadastro.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:34.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "conexao.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\conexao.php",
+              "RelativeDocumentMoniker": "conexao.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\conexao.php",
+              "RelativeToolTip": "conexao.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:17.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cadastrar_se.php",
+              "DocumentMoniker": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\cadastrar_se.php",
+              "RelativeDocumentMoniker": "cadastrar_se.php",
+              "ToolTip": "D:\\Registrador de Filmes e Livros - PHP\\Codigo\\cadastrar_se.php",
+              "RelativeToolTip": "cadastrar_se.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T14:04:12.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

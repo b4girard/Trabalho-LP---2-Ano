@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS REGISTRADOR_FILMES_LIVROS;
-USE REGISTRADOR_FILMES_LIVROS;
+CREATE DATABASE IF NOT EXISTS REGISTRADOR_FILMES_LIVROS_WEB;
+USE REGISTRADOR_FILMES_LIVROS_WEB;
 
 CREATE TABLE usuario (
   ID_usuario INT NOT NULL AUTO_INCREMENT,
@@ -85,5 +85,9 @@ CREATE TABLE lista_midia (
     ON DELETE SET NULL ON UPDATE CASCADE,
   CONSTRAINT chk_avaliacao CHECK (Avaliacao BETWEEN 0 AND 5 OR Avaliacao IS NULL)
 );
+
+UPDATE usuario SET Tipo_usuario = "administrador" WHERE ID_usuario = 1;
+UPDATE usuario SET Tipo_usuario = "administrador" WHERE ID_usuario = 2;
+select * from usuario;
 
 insert into livro (ISBN, Titulo, Autor, Idioma, Editora, N_Paginas, Capa) value ("9788584391509", "Os sete maridos de Evelyn Hugo", "Taylor Jenkins Reid", "Português", "Paralela", 360, "../Imagens Livros/Os Sete Maridos de Evelyn Hugo.jpg");

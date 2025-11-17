@@ -1,12 +1,12 @@
-<?php require_once iniciar_sessao.php ?>
+<?php require_once "iniciar_sessao.php" ?>
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Home</title>
-
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -33,21 +33,30 @@
       text-decoration: none;
     }
 
-    /* === Ajuste do tamanho das imagens do carousel === */
-    .carousel-item img {
-      height: 500px;          /* altura desejada */
-      object-fit: cover;      /* preenche o espaço sem distorcer */
-    }
-
-
     .carousel {
-      max-width: 900px;
-      margin: 40px auto;
+      max-width: 600px;
       border-radius: 10px;
       overflow: hidden;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      position: relative;
+      top: -50px;
+      left: 55%;
+      transform: translateX(-50%);
     }
 
+    .carousel-item img {
+      max-height: 100%;
+      max-width: 100%;
+      object-fit: contain;
+      display: block;
+    }
+
+    #carouselBooks {
+      position: relative;
+      top: -90px;
+      left: 30%;
+      transform: translateX(-40%);
+    }
 
     #div_busca {
       position: absolute;
@@ -80,21 +89,22 @@
 <body>
   <h1>Bem-vindo!</h1>
   <h2>Aqui você pode registrar os livros e filmes que quer ou já assistiu — tudo em um só lugar!</h2>
-    <a href="Listas.php">Minhas Listas</a><br><br>
-    <a href="Logout.php">Sair</a>
- 
-  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <a href="Perfil.php">Meu Perfil</a><br><br>
+  <a href="Listas.php">Minhas Listas</a><br><br>
+  <a href="Logout.php">Sair</a>
+
+  <div id="carouselBooks" class="carousel slide" data-bs-ride="carousel">
 
     <div class="carousel-indicators">
-      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></button>
-      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></button>
-      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></button>
+      <button type="button" data-bs-target="#carouselBooks" data-bs-slide-to="0" class="active"></button>
+      <button type="button" data-bs-target="#carouselBooks" data-bs-slide-to="1"></button>
+      <button type="button" data-bs-target="#carouselBooks" data-bs-slide-to="2"></button>
     </div>
-
 
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="../Imagens Livros/Os Sete Maridos de Evelyn Hugo.jpg" class="d-block w-100" alt="Os Sete Maridos de Evelyn Hugo">
+        <img src="../Imagens Livros/Os Sete Maridos de Evelyn Hugo.jpg" class="d-block w-100"
+          alt="Os Sete Maridos de Evelyn Hugo">
         <div class="carousel-caption d-none d-md-block">
           <h5>Os Sete Maridos de Evelyn Hugo</h5>
           <p>Um romance envolvente sobre fama, amor e segredos.</p>
@@ -118,25 +128,23 @@
       </div>
     </div>
 
-
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselBooks" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Anterior</span>
     </button>
 
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselBooks" data-bs-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Próximo</span>
     </button>
   </div>
-
 
   <div id="div_busca">
     <input type="text" id="txt_busca" placeholder="Buscar..." />
     <img src="../Imagens_HTML/Lupa.png" id="btn_Busca" alt="Buscar" />
   </div>
 
-
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
